@@ -1,10 +1,11 @@
 # 💾 memory-dumper
 - simple tool that dumps the strings of a process/service
 
-## Purpose
+## 📝 Purpose
 - My friend asked me to code this for him for forensic analysis purposes.
 
-## Download 
+##![image](https://github.com/trxgedy/memory-dumper/assets/79763373/7ee88b25-eb35-48ea-92f3-2cfcba0e6bca)
+ Download 
 - Download at [releases section](https://github.com/trxgedy/memory-dumper/releases)
 
 ## Usage
