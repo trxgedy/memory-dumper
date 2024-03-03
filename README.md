@@ -11,8 +11,10 @@
 ```cpp
 int __stdcall main( )
 {
+	std::string proc_to_dump = "process_name.exe";
+
 	const auto dumper_ = std::make_unique<dumper::c_dumper>( );
-	dumper_->dump_memory( "process_name.exe" );
+	dumper_->dump_memory( proc_to_dump );
 
 	std::cin.get( );
 	return EXIT_SUCCESS;
