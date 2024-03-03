@@ -4,11 +4,10 @@
 ## 📝 Purpose
 - My friend asked me to code this for him for forensic analysis purposes.
 
-##![image](https://github.com/trxgedy/memory-dumper/assets/79763373/7ee88b25-eb35-48ea-92f3-2cfcba0e6bca)
- Download 
+## 👨🏽‍💻 Download 
 - Download at [releases section](https://github.com/trxgedy/memory-dumper/releases)
 
-## Usage
+## 📘 Usage
 ```cpp
 int __stdcall main( )
 {
@@ -19,3 +18,6 @@ int __stdcall main( )
 	return EXIT_SUCCESS;
 }
 ```
+
+## 🎥 Showcase
+https://github.com/trxgedy/memory-dumper/assets/79763373/4ff71d6e-00ba-47c8-a731-e32a877df02e
