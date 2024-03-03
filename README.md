@@ -14,6 +14,7 @@ int __stdcall main( )
 	const auto dumper_ = std::make_unique<dumper::c_dumper>( );
 	dumper_->dump_memory( "process_name.exe" );
 
+	std::cin.get( );
 	return EXIT_SUCCESS;
 }
 ```
