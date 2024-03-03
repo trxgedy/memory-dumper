@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memory-dumper", "memory-dumper\memory-dumper.vcxproj", "{F64367FA-0302-4DF3-BC86-BF5EA643DA40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64367FA-0302-4DF3-BC86-BF5EA643DA40}.Debug|x64.ActiveCfg = Debug|x64
+		{F64367FA-0302-4DF3-BC86-BF5EA643DA40}.Debug|x64.Build.0 = Debug|x64
+		{F64367FA-0302-4DF3-BC86-BF5EA643DA40}.Debug|x86.ActiveCfg = Debug|Win32
+		{F64367FA-0302-4DF3-BC86-BF5EA643DA40}.Debug|x86.Build.0 = Debug|Win32
+		{F64367FA-0302-4DF3-BC86-BF5EA643DA40}.Release|x64.ActiveCfg = Release|x64
+		{F64367FA-0302-4DF3-BC86-BF5EA643DA40}.Release|x64.Build.0 = Release|x64
+		{F64367FA-0302-4DF3-BC86-BF5EA643DA40}.Release|x86.ActiveCfg = Release|Win32
+		{F64367FA-0302-4DF3-BC86-BF5EA643DA40}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244AEA55-F6AA-48A6-867B-4AA1B7D17705}
+	EndGlobalSection
+EndGlobal
