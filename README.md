@@ -2,7 +2,7 @@
 - simple tool that dumps the strings of a process/service
 
 ## 📝 Purpose
-- My friend asked me to code this for him for forensic analysis purposes.
+- forensic analysis.
 
 ## 👨🏽‍💻 Download 
 - Download at [releases section](https://github.com/trxgedy/memory-dumper/releases)
